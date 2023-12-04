@@ -1,1 +1,1 @@
-Code for toy example in Performative Prediction Paper for 454
+Code for toy example in Performative Prediction Paper for CS 4540
